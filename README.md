@@ -1,5 +1,5 @@
 # Django Course for beginners 2024 Repository
-
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw
 This repository contains the course materials and the final project for a Django-based course focused on web development. The course covers foundational to advanced Django topics, preparing students to build robust web applications.
 
 ## Course Structure
